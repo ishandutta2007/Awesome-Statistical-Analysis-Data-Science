@@ -6,10 +6,12 @@
 
 <br/>
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Statistical-Analysis-Data-Science/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Statistical-Analysis-Data-Science/graphs/commit-activity)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated collection of leading Statistical Analysis and Data Science platforms — comparing commercial SaaS/Enterprise suites with high-performance open-source tools for statistical computing, predictive modeling, Bayesian inference, and machine learning pipelines.**
 
@@ -26,6 +28,8 @@
 - [💻 Open-Source Software & Toolkits](#-open-source-software--toolkits)
 - [⚖️ Feature Matrix & Architecture Comparison](#-feature-matrix--architecture-comparison)
 - [🤝 Contributing & Community Guidelines](#-contributing--community-guidelines)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -112,6 +116,29 @@ git checkout -b feat/add-new-statistical-tool
 git commit -m "feat: add NewTool to open-source matrix"
 git push origin feat/add-new-statistical-tool
 ```
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and utilizing this curated statistical analysis and data science guide! Maintaining comprehensive resources, validating pricing benchmarks, and tracking the fast-evolving ecosystem takes ongoing effort.
+
+If you find this repository valuable, please consider supporting the project:
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and share** it with your research lab, engineering team, or colleagues.
+- ☕ **Buy a coffee & sponsor development:** Support our ongoing open-source curation and tool tracking directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+</div>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Statistical-Analysis-Data-Science&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Statistical-Analysis-Data-Science&type=date&legend=top-left)
 
 ---
 
